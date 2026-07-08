@@ -7,20 +7,24 @@ public:
         int res=INT_MAX;
         int sum=0;
 
-        while(high<n){
+        for(high=0;high<n;high++){
             sum=sum+nums[high];
+
             while(sum>=target){
                 int len=high-low+1;
-                res=min(res,len);
+                res=min(res, len);
+
                 sum=sum-nums[low];
                 low++;
             }
-            high++;
+
         }
+
         if (res == INT_MAX){
             return 0;
         }
         return res;
 
+      
     }
 };
