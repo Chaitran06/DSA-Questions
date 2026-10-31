@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Chaitran06/DSA-Questions/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/Chaitran06/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Chaitran06/DSA-Questions/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chaitran06/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Chaitran06/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Chaitran06/DSA-Questions/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Chaitran06/DSA-Questions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Chaitran06/DSA-Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
