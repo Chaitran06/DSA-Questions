@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Chaitran06/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chaitran06/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Chaitran06/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Chaitran06/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0904-fruit-into-baskets](https://github.com/Chaitran06/DSA-Questions/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Chaitran06/DSA-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/Chaitran06/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chaitran06/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Chaitran06/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Chaitran06/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Chaitran06/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Chaitran06/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Chaitran06/DSA-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Chaitran06/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
